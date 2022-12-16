@@ -7,5 +7,14 @@ namespace WebApplication1
 {
     public class Class2
     {
+         private void ChangesToClass2()
+        {
+            int c = 0;
+        }
+
+        private void ChangeInBranch()
+        {
+            var i = 0;
+        }
     }
 }

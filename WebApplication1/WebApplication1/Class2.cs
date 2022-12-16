@@ -9,7 +9,7 @@ namespace WebApplication1
     {
          private void ChangesToClass2()
         {
-
+            int c = 0;
         }
     }
 }

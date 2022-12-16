@@ -11,5 +11,10 @@ namespace WebApplication1
         {
             int c = 0;
         }
+
+        private void ChangeInBranch()
+        {
+            var i = 0;
+        }
     }
 }

@@ -7,5 +7,9 @@ namespace WebApplication1
 {
     public class Class2
     {
+         private void ChangesToClass2()
+        {
+
+        }
     }
 }

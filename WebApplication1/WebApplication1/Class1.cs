@@ -11,5 +11,10 @@ namespace WebApplication1
         {
             return 2;
         }
+
+        private void ChangeForBranch()
+        {
+
+        }
     }
 }
